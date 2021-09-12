@@ -50,12 +50,7 @@
 </table>
 </div>
 
-<div id="content" style="background-color:#EEEEEE;height:1000px;width:800px;float:left;">
-<p align="center">
-<video width="800" height="800" controls autoplay align=center>
-  <source src="最美情侣.mp4"  type="video/mp4">
-  您的浏览器不支持 HTML5 video 标签。
-</video>
+
 
 </p>
 </div>
