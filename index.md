@@ -4,10 +4,9 @@
 
 <div id="menu" style="background-color:#AFEEEE;height:1000px; width:1080px;float:left;">
 <table border=5 bordercolor=black cellspacing=0 align=center>
-<tr height=120 bgcolor=	#AFEEEE align=center>
-<tr height=60 bgcolor=#AFEEEE align=center>
+
 <td width=120 colspan=2 align=center><font face=微软雅黑 size=6><b>姓名</b></font></td>
-<td width=120 colspan=2 align=center><font face=华文行楷 size=6>Eternally</font></td>
+<td width=120 colspan=2 align=center><font face=华文行楷 size=6>朱常杰</font></td>
 <td width=120 colspan=2 align=center><font face=微软雅黑 size=6><b>性别</b></font></td>
 <td width=120 colspan=2 align=center><font face=华文行楷 size=6>男</font></td>
 <td width=180  rowspan=4
