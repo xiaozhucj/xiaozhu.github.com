@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta name = "author" content = "Eternally">
-<meta name = "keywords" content = "Eternally">
-<meta charset="GBK">
-</head>
 <body>
 
 <div id="menu" style="background-color:#AFEEEE;height:1000px; width:1080px;float:left;">
@@ -51,9 +46,6 @@
 <tr height=180 bgcolor=#AFEEEE >
 <td width=120 colspan=2><font face=微软雅黑  size=6><b>荣誉奖项</b></font></td>
 <td width=840  colspan=8><font face=华文行楷 size=6>
-<ol>	
-
-</ol>
 <hr noshade size = 5 align = center width = 100%>
 </font></td></tr>
 </table>
