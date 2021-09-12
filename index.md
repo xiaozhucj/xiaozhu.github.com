@@ -1,6 +1,5 @@
 <table border="0">
   <tr>
-  
     <td width="75%">
       <h1>朱常杰</h1>
       <p><b>硕士研究生</b></p>
@@ -11,7 +10,6 @@
     <td width="25%">
       <img src="/zhuchangjie.jpg" width="100%">     
     </td>
-
   </tr>
   <tr>
     <h1>研究方向</h1>
