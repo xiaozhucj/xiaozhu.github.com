@@ -45,7 +45,6 @@
 <tr height=180 bgcolor=#AFEEEE >
 <td width=120 colspan=2><font face=微软雅黑  size=6><b>荣誉奖项</b></font></td>
 <td width=840  colspan=8><font face=华文行楷 size=6>
-<hr noshade size = 5 align = center width = 100%>
 </font></td></tr>
 </table>
 
