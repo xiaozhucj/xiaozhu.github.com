@@ -48,12 +48,7 @@
 <hr noshade size = 5 align = center width = 100%>
 </font></td></tr>
 </table>
-</div>
 
-
-
-</p>
-</div>
 </body>
 </html>
 
