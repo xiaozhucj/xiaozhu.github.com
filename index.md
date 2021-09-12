@@ -10,14 +10,10 @@
     <td width="25%">
       <img src="/zhuchangjie.jpg" width="100%">     
     </td>
- 
-  
-  
+
     <h2>研究方向</h2>
     <p><b>医学图像处理</b></p>
-
     <h3>荣誉奖项</h3>
-    
   </tr>
   
   
